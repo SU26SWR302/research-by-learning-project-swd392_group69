@@ -1,3 +1,6 @@
+## Link Overleaf: 
+https://www.overleaf.com/7198286432nqnzvzkmqyym#7a4763
+
 # 🎬 OPTICINE: HỆ THỐNG QUẢN TRỊ VẬN HÀNH & ĐIỀU PHỐI TÀI NGUYÊN RẠP CHIẾU PHIM
 
 Một dự án Học tập Dựa trên Nghiên cứu (RBL) nâng cao được phát triển. Dự án này tập trung giải quyết các bài toán logic backend phức tạp và thách thức phân bổ tài nguyên trong quản lý rạp chiếu phim.
